@@ -1,7 +1,8 @@
 # Exposé d'Histoire technique d'Internet
-{ exposé choisi }
+exposé choisi
 
-(https://github.com/SundownDEV)[mon github]
+[mon github](https://github.com/SundownDEV)
 
 ## Sources
-[...]
+* source1
+* source2

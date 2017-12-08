@@ -1,5 +1,5 @@
 # Exposé d'Histoire technique d'Internet
-exposé choisi
+Type d’hébergement : Mutualisé, dédié, cloud, VPS
 
 [mon github](https://github.com/SundownDEV)
 

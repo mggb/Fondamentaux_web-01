@@ -1,7 +1,14 @@
+# Exposé d'Histoire technique d'Internet
+Type d’hébergement : Mutualisé, dédié, cloud, VPS
 
-# WEB1P2020_Presentations
-Présentations
 https://github.com/mggb
-Thomas Deruel :https://github.com/ThomasDeruel
-[Github Remi](https://github.com/ayshiff)
 
+https://github.com/ThomasDeruel
+
+https://github.com/SundownDEV
+
+https://github.com/ayshiff
+
+## Sources
+* source1
+* source2
